@@ -354,26 +354,6 @@ Platform : ZEM600_TFT
 DeviceName : iClock880-H/ID (Active testing! latest fix)
 ```
 
-### Not Working (needs more tests, more information)
 
-```
-Firmware Version : Ver 6.4.1 (build 99) (display version 2012-08-31)
-Platform : 
-DeviceName : iClock260 (no capture data - probably similar problem as the latest TESTED)
-```
 
-If you have another version tested and it worked, please inform me to update this list!
 
-# Related Project
- * [zkcluster](https://github.com/kurenai-ryu/zkcluster/ "zkcluster project") is a django apps to manage multiple fingerprint devices. (Initial support form the [original project](https://github.com/fananimi/zkcluster/))
-
-# Related Project (TODO: check compatibility with this fork)
- * [Driji](https://github.com/fananimi/driji/ "Driji project") is an attendance apps based fingerprint for school
-
-# Todo
-
-* Create better documentation
-* ~~Finger template downloader & uploader~~
-* HTTP Rest api
-* ~~Create real time api (if possible)~~
-* and much more ...
